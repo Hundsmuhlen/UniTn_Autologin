@@ -14,7 +14,7 @@
       "*://didatticaonline.unitn.it/dol/loginUniTN.php?errorcode=*",
       "*://cp.net.icts.unitn.it/aruba-login-new/index.php?cmd=login*",
       "*://webapps.unitn.it/GestioneCorsi", "*://webapps.unitn.it/gestionecorsi/",
-      "*://didatticaonline.unitn.it/dol"],
+      "*://didatticaonline.unitn.it/dol*"],
       "js": ["autologin.js"]
     }
   ]
