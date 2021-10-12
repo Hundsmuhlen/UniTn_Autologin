@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Uni Trento autologin",
-  "version": "0.2",
+  "version": "0.3",
   "author": "KIT-Memewerk",
   "description": "UNI Trento auto re-login. You have to have your Password and Username already safed! The Extension just does the Clickwork ",
   "icons":{
